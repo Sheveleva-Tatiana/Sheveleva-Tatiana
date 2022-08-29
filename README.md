@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 |Project name|Preview|Stack|Short description|
 |:-----------|:------|:---:|:----------------|
-|   [minishell](https://github.com/Sheveleva-Tatiana/minishell)| ![2-2-space-free-png-image (1)](https://user-images.githubusercontent.com/94602550/187190347-d4a99ce0-5180-46e2-a6ad-080e9f342358.png)
+|   [minishell](https://github.com/Sheveleva-Tatiana/minishell)| ![eyebrow-raise-shrek](https://user-images.githubusercontent.com/94602550/187190677-257b404e-625c-4838-84c4-44968da9f3e3.gif)
  | fdgfd|sdfsdfsd|
