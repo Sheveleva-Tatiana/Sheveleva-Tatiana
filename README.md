@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 |Project name|Preview|Stack|Short description|
 |:-----------|:------|:---:|:----------------|
-|   [Coachella Landing Page](https://github.com/localhead/Coachella-Landing-Page)| dgfg | fdgfd|sdfsdfsd|
+|   [minishell](https://github.com/Sheveleva-Tatiana/minishell)| ![2-2-space-free-png-image (1)](https://user-images.githubusercontent.com/94602550/187190347-d4a99ce0-5180-46e2-a6ad-080e9f342358.png)
+ | fdgfd|sdfsdfsd|
