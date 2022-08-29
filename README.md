@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Sheveleva-Tatiana/Sheveleva-Tatiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 |Project name|Preview|Stack|Short description|
 |:-----------|:------|:---:|:----------------|
-|   [Coachella Landing Page](https://github.com/localhead/Coachella-Landing-Page)| |<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="JavaScript Logo" width="20" height="20"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="JavaScript Logo" width="20" height="20"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="20" height="20"/>|In this project I tried to implement different popular visual effects by using JS. You can find there:  Sliders & tabs components, Lazy image loading, Sticky nav bar, Smooth sections revealings and more. Clone repository and open it in your browser!|
+|   [Coachella Landing Page](https://github.com/localhead/Coachella-Landing-Page)| dgfg | fdgfd|sdfsdfsd|
