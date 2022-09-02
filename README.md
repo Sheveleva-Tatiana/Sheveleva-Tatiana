@@ -3,8 +3,7 @@
 ### 🌱 I’m currently learning Java
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=gruvbox)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=radical) ![Tatiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheveleva-Tatiana&show_icons=true&theme=radical)
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D)
 ![C](https://img.shields.io/badge/-C-2F4F4F?style=flat&logo=C&logoColor=6296CC)
