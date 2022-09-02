@@ -6,6 +6,11 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning Java Spring and Spring Boot.
 
+### Socials:
+[![Email](https://img.shields.io/badge/-Email-2F4F4F?style=flat&logo=google&logoColor=27A0D9)](mailto:shevelevatv95@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2F4F4F?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/SHEV_TV)
+[![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tanya_myau)
+
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D)
 ![C](https://img.shields.io/badge/-C-2F4F4F?style=flat&logo=C&logoColor=6296CC)
@@ -15,6 +20,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-GIT-2F4F4F?style=flat&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-2F4F4F?style=flat&logo=PostgreSQL&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-2F4F4F?style=flat&logo=Docker&logoColor=6296CC)
+
+###Here is the list of my projects:
 
 | Project name                                                                        | Preview                                                                                            |                                                                                                                                                                                                                                                                                 Stack                                                                                                                                                                                                                                                                                  | Short description                                                                                                                                                                                    |
 |:------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
