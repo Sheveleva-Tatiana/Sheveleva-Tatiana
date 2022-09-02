@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/-Telegram-2F4F4F?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/SHEV_TV)
 [![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tanya_myau)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=gruvbox)
+
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D)
 ![C](https://img.shields.io/badge/-C-2F4F4F?style=flat&logo=C&logoColor=6296CC)
