@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 | Project name                                                            | Preview                                                                                                                       | Stack | Short description |
 |:------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|:-----:|:------------------|
-| [MultiChat](https://github.com/Sheveleva-Tatiana/Super_Multi_Chat)      | ![chat](https://github.com/Sheveleva-Tatiana/Sheveleva-Tatiana/blob/main/accert/chat.gif)                                       |       | fdgfd             |
+| [MultiChat](https://github.com/Sheveleva-Tatiana/Super_Multi_Chat)      | ![chat](https://github.com/Sheveleva-Tatiana/Sheveleva-Tatiana/blob/main/accert/chat3.gif)                                       |       | fdgfd             |
 | fdgfd                                                                   | sdfsdfsd                                                                                                                      |       | fdgfd             |
 | fdgfd                                                                   | sdfsdfsd                                                                                                                      |       | fdgfd             |
 | [minishell](https://github.com/Sheveleva-Tatiana/minishell)             | ![eyebrow-raise-shrek](https://user-images.githubusercontent.com/94602550/187190677-257b404e-625c-4838-84c4-44968da9f3e3.gif) 
