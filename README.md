@@ -2,6 +2,10 @@
 
 ### 🌱 I’m currently learning Java
 
+My Stepik Profile -> https://stepik.org/users/534081423?auth=login
+
+My Jet Brain Profile -> https://hyperskill.org/profile/270256147 
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=radical)
 
