@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently learning Java
 
-My Stepik Profile -> https://stepik.org/users/534081423?auth=login
+My Stepik Profile -> https://stepik.org/users/534081423
 
 My Jet Brain Profile -> https://hyperskill.org/profile/270256147 
 
