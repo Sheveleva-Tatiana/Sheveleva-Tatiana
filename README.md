@@ -7,6 +7,7 @@ My Stepik Profile -> https://stepik.org/users/534081423
 My Jet Brains Profile -> https://hyperskill.org/profile/270256147 
 
 
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=radical)
 
 ### Languages and Tools:
@@ -31,3 +32,5 @@ My Jet Brains Profile -> https://hyperskill.org/profile/270256147
 [![Email](https://img.shields.io/badge/-Email-2F4F4F?style=flat&logo=google&logoColor=27A0D9)](mailto:shevelevatv95@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2F4F4F?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/SHEV_TV)
 [![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tanya_myau)
+
+![](https://komarev.com/ghpvc/?username=Sheveleva-Tatiana)
