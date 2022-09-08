@@ -19,6 +19,9 @@ My Jet Brains Profile -> https://hyperskill.org/profile/270256147
 ![Git](https://img.shields.io/badge/-GIT-2F4F4F?style=flat&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-2F4F4F?style=flat&logo=PostgreSQL&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-2F4F4F?style=flat&logo=Docker&logoColor=6296CC)
+![Maven](https://img.shields.io/badge/-Maven-2F4F4F?style=flat&logo=MAVEN&logoColor=6296CC)
+![Gradle](https://img.shields.io/badge/-Gradle-2F4F4F?style=flat&logo=Gradle&logoColor=6296CC)
+
 
 ### Here is the list of some my projects:
 
