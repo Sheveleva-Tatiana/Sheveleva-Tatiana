@@ -18,8 +18,6 @@
 ![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
 ![Gradle](https://img.shields.io/badge/-Gradle-1E7775?style=for-the-badge&logo=Gradle&logoColor=6296CC)
 
-![REST](https://img.shields.io/badge/-REST-1E7775?style=for-the-badge)
-
 
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
@@ -28,6 +26,8 @@
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
+![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=F88C00)
+
 
 
 ### Here is the list of some my projects:
