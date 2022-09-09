@@ -9,21 +9,18 @@ My Jet Brains Profile -> https://hyperskill.org/profile/270256147
 
 
 
+### Languages and Tools:
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=radical)
-
-### Languages and Tools:![Uploading 65494463_free.gif…]()
-
-![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D)
-![C](https://img.shields.io/badge/-C-2F4F4F?style=flat&logo=C&logoColor=6296CC)
-![C++](https://img.shields.io/badge/-C++-2F4F4F?style=flat&logo=C%2b%2b&logoColor=6296CC)
-![Spring](https://img.shields.io/badge/-Spring-2F4F4F?style=flat&logo=Spring)
-![Spring Boot](https://img.shields.io/badge/-Spring_boot-2F4F4F?style=flat&logo=SpringBoot)
-![Git](https://img.shields.io/badge/-GIT-2F4F4F?style=flat&logo=GIT&logoColor=F88C00)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-2F4F4F?style=flat&logo=PostgreSQL&logoColor=6296CC)
-![Docker](https://img.shields.io/badge/-Docker-2F4F4F?style=flat&logo=Docker&logoColor=6296CC)
-![Maven](https://img.shields.io/badge/-Maven-2F4F4F?style=flat&logo=MAVEN&logoColor=6296CC)
-![Gradle](https://img.shields.io/badge/-Gradle-2F4F4F?style=flat&logo=Gradle&logoColor=6296CC)
+![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
+![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
+![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-Spring_boot-1E7775?style=for-the-badge&logo=SpringBoot)
+![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
+![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
+![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=MAVEN&logoColor=6296CC)
+![Gradle](https://img.shields.io/badge/-Gradle-1E7775?style=for-the-badge&logo=Gradle&logoColor=6296CC)
 
 
 ### Here is the list of some my projects:
