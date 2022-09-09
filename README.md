@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring_boot-1E7775?style=for-the-badge&logo=SpringBoot)
-![Spring MVC](https://img.shields.io/badge/-Spring_MVC-1E7775?style=for-the-badge&logo=SpringWebMVC)
+![Spring MVC](https://img.shields.io/badge/-Spring_MVC-1E7775?style=for-the-badge&logo=Spring)
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
