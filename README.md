@@ -1,4 +1,5 @@
-### Hi there 👋
+![download](https://user-images.githubusercontent.com/94602550/189287403-0b9182cf-a470-4b8c-afc4-c955090647ac.gif)
+
 
 ### 🌱 I’m currently learning Java
 
@@ -8,9 +9,11 @@ My Jet Brains Profile -> https://hyperskill.org/profile/270256147
 
 
 
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheveleva-Tatiana&theme=radical)
 
-### Languages and Tools:
+### Languages and Tools:![Uploading 65494463_free.gif…]()
+
 ![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D)
 ![C](https://img.shields.io/badge/-C-2F4F4F?style=flat&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-2F4F4F?style=flat&logo=C%2b%2b&logoColor=6296CC)
