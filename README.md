@@ -15,7 +15,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring_boot-1E7775?style=for-the-badge&logo=SpringBoot)
 ![Spring MVC](https://img.shields.io/badge/-Spring_MVC-1E7775?style=for-the-badge&logo=Spring)
-![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=MAVEN&logoColor=6296CC)
+![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
 ![Gradle](https://img.shields.io/badge/-Gradle-1E7775?style=for-the-badge&logo=Gradle&logoColor=6296CC)
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
