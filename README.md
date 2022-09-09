@@ -3,9 +3,9 @@
 
 ### 🌱 I’m currently learning Java
 
-My Stepik Profile -> https://stepik.org/users/534081423
+[My Stepik Profile](https://stepik.org/users/534081423)
 
-My Jet Brains Profile -> https://hyperskill.org/profile/270256147 
+[My Jet Brains Profile](https://hyperskill.org/profile/270256147)
 
 
 
