@@ -18,6 +18,10 @@
 ![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
 ![Gradle](https://img.shields.io/badge/-Gradle-1E7775?style=for-the-badge&logo=Gradle&logoColor=6296CC)
 
+![REST](https://img.shields.io/badge/-REST-1E7775?style=for-the-badge)
+
+
+
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
