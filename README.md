@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/94602550/189287403-0b9182cf-a470-4b8c-afc4-c955090647ac.gif)
+![download (1)](https://user-images.githubusercontent.com/94602550/189288384-d4c469c4-6eef-4d05-8099-5435d99a015e.gif)
 
 
 ### 🌱 I’m currently learning Java
