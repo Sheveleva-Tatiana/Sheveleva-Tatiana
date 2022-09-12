@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning Java
 
-### Study Profiles:
+### Educational profiles:
 
 <a href="https://stepik.org/users/534081423">
   <img alt="Stepik" width="50px" height="50px" align="center" src="https://user-images.githubusercontent.com/94602550/189644633-5bf186c6-b3a3-4eac-a2fd-7830617cfe2c.svg" >
