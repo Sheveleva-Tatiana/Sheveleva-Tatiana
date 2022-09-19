@@ -10,13 +10,16 @@
 </a>
 
 <a href="https://hyperskill.org/profile/270256147">
-  <img alt="Telegram" width="50px" height="50px" align="center" src="https://user-images.githubusercontent.com/94602550/189644704-4ea1369d-2c33-427f-9ae0-c6bfd174ee8d.svg" >
+  <img alt="JetBrains" width="50px" height="50px" align="center" src="https://user-images.githubusercontent.com/94602550/189644704-4ea1369d-2c33-427f-9ae0-c6bfd174ee8d.svg" >
 </a>
 
 <a href="https://leetcode.com/shevelevatv95">
-  <img alt="Telegram" width="50px" height="50px" align="center" src="https://user-images.githubusercontent.com/94602550/189644450-3efed295-1635-49d9-bc96-5f8cc80a2d2b.png" >
+  <img alt="Leetcode" width="50px" height="50px" align="center" src="https://user-images.githubusercontent.com/94602550/189644450-3efed295-1635-49d9-bc96-5f8cc80a2d2b.png" >
 </a>
 
+### Leetcode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/shevelevatv95?theme=dark)
 
 ### Languages and Tools:
 
