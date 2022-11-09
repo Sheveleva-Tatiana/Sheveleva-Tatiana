@@ -1,7 +1,7 @@
 <img alt="welcome" align="center" src="https://user-images.githubusercontent.com/94602550/189288384-d4c469c4-6eef-4d05-8099-5435d99a015e.gif">
 
 
-### 🌱 I’m currently learning Java (Now, I'm watching Alishev's course [Spring Framework](https://www.youtube.com/watch?v=5ePo08sqcpk&t=274s))
+### 🌱 I’m currently learning Java (Now, I'm working on project School42 ["FWA"](https://github.com/Sheveleva-Tatiana/FWA_42))
 
 ### Educational profiles:
 
