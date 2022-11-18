@@ -53,6 +53,6 @@
 ### Socials:
 [![Email](https://img.shields.io/badge/-Email-2F4F4F?style=flat&logo=google&logoColor=27A0D9)](mailto:shevelevatv95@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2F4F4F?style=flat&logo=telegram&logoColor=27A0D9)](https://t.me/SHEV_TV)
-[![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tanya_myau)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-2F4F4F?style=flat&logo=instagram&logoColor=B4068E)](https://www.instagram.com/tanya_myau) -->
 
 ![](https://komarev.com/ghpvc/?username=Sheveleva-Tatiana)
