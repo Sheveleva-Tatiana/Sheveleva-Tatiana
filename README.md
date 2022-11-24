@@ -1,7 +1,7 @@
 <img alt="welcome" align="center" src="https://user-images.githubusercontent.com/94602550/189288384-d4c469c4-6eef-4d05-8099-5435d99a015e.gif">
 
 
-### 🌱 I’m currently learning Java (Now, I'm working on project ["TACO CLOUD"](https://github.com/Sheveleva-Tatiana/Taco-Cloud))
+### 🌱 I’m currently learning Java (Now, I'm working on the project ["TACO CLOUD"](https://github.com/Sheveleva-Tatiana/Taco-Cloud))
 
 ### Educational profiles:
 
