@@ -1,13 +1,10 @@
 <img alt="welcome" align="center" src="https://user-images.githubusercontent.com/94602550/189288384-d4c469c4-6eef-4d05-8099-5435d99a015e.gif">
 
-### KISS 
-(Keep It Simple Stupid)
+### KISS (Keep It Simple Stupid)
 
-### YAGNI 
-(You Ain't Gonna Need It)
+### YAGNI (You Ain't Gonna Need It)
 
-### DRY 
-(Don't Repeat Yourself)
+### DRY (Don't Repeat Yourself)
 
 
 
