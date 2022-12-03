@@ -48,6 +48,11 @@ DRY (Don't Repeat Yourself)
 ![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=F88C00)
 
 
+![JUnit](https://img.shields.io/badge/-JUnit5-1E7775?style=for-the-badge&logo=JUnit5&logoColor=F88C00)
+![TestNG](https://img.shields.io/badge/-TestNG-1E7775?style=for-the-badge&logo=testNg&logoColor=F88C00)
+![Selenuim](https://img.shields.io/badge/-Selenium-1E7775?style=for-the-badge&logo=selenium&logoColor=F88C00)
+
+
 
 ### Here is the list of some my projects:
 
