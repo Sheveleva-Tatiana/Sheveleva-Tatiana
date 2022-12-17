@@ -4,7 +4,7 @@
 
 
 
-### 🌱 I’m currently learning Java (Now, I'm working on the project ["TACO CLOUD"](https://github.com/Sheveleva-Tatiana/Taco-Cloud))
+### 🌱 I’m currently learning Authomation testing.
 
 ### Educational profiles:
 
